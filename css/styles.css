@@ -1,0 +1,13 @@
+.paakehys{
+    background-color: grey;
+    margin: 0 auto;
+}    
+.tietoni{
+    color: black;
+    position: relative;
+    padding: 1em;
+}
+.under_construction{
+    margin: 0 auto;
+    text-align: center;
+}
