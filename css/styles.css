@@ -1,13 +1,44 @@
+*{
+    font-family: 'Arial', 'Helvetica', sans-serif;
+    font-size: large;
+    line-height: 1.5pt;
+    background-color:whitesmoke;
+    color: #333;
+}
 .paakehys{
-    background-color: grey;
-    margin: 0 auto;
+    overflow: hidden;
+    padding-top: 10px;
 }    
 .tietoni{
-    color: black;
-    position: relative;
+    float: left;
     padding: 1em;
+    text-align: left;
+}
+.facebook{
+    float: right;
+    padding-top: 1em;
+    padding-right: 5px;
+}
+.instagram{
+    float: right;
+    padding-top: 1em;
+    padding-right: 5px;
+}
+.github{
+    float: right;
+    padding-top: 1em;
+    padding-right: 5px;
+}
+.linkedin{
+    float: right;
+    padding-top: 1em;
+    padding-right: 5px;
 }
 .under_construction{
+    margin-top: 100px;
     margin: 0 auto;
     text-align: center;
+}
+.omat_tiedot{
+    padding-left: 1em;
 }
